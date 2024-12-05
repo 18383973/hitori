@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188','0']
-global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.owner = ['6281542788323']
+global.packname = 'WhatsApp'
+global.author = 'Vincentt Jir🐣'
+global.botname = 'SatoruuX V1'
 global.listprefix = ['+','!']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
@@ -20,17 +20,17 @@ global.pairing_code = true
 
 global.fake = {
 	anonim: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
-	thumbnailUrl: 'https://telegra.ph/file/fe4843a1261fc414542c4.jpg',
+	thumbnailUrl: 'https://files.catbox.moe/4jjxce.jpg',
 	thumbnail: fs.readFileSync('./src/media/naze.png'),
 	docs: fs.readFileSync('./src/media/fake.pdf'),
 	listfakedocs: ['application/vnd.openxmlformats-officedocument.spreadsheetml.sheet','application/vnd.openxmlformats-officedocument.presentationml.presentation','application/vnd.openxmlformats-officedocument.wordprocessingml.document','application/pdf'],
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R',
-	ch: '120363250409960161@newsletter',
+	yt: 'https://youtube.com/c/vincenttdev',
+	gh: 'https://github.com/vincenttdev',
+	gc: 'https://chat.whatsapp.com/LEcSI3et4q68oeo0Pzesp1',
+	ch: '120363292349409933@newsletter',
 }
 
 global.limit = {
